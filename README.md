@@ -1,9 +1,9 @@
-# 🎥 prabhat-vlogs – YouTube Code Repository
+# 🎥 Code-It – YouTube Code Repository
 
-Welcome to the official code repository for **[https://www.youtube.com/@prabhat-vlogs]**
+Welcome to the official code repository for **[https://www.youtube.com/@Code-It-m7q]**
  on YouTube! Here you will find all the source code and resources featured in my videos.
 
-👉 **Subscribe on YouTube:** [https://www.youtube.com/@prabhat-vlogs]
+👉 **Subscribe on YouTube:** [https://www.youtube.com/@Code-It-m7q]
 
 ---
 
