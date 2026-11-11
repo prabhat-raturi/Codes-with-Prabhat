@@ -2,7 +2,7 @@
 
 Welcome to the official code repository for **[prabhat-vlogs](https://youtube.com)** on YouTube! Here you will find all the source code and resources featured in my videos.
 
-👉 **Subscribe on YouTube:** [://youtube.com](https://youtube.com)
+👉 **Subscribe on YouTube:** [https://prabhat-vlogs://youtube.com](https://youtube.com)
 
 ---
 
