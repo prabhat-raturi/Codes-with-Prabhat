@@ -3,7 +3,7 @@
 Welcome to the official code repository for **[https://www.youtube.com/@prabhat-vlogs]**
  on YouTube! Here you will find all the source code and resources featured in my videos.
 
-👉 **Subscribe on YouTube:** [https://www.youtube.com/@prabhat-vlogs](https://youtube.com)
+👉 **Subscribe on YouTube:** [https://www.youtube.com/@prabhat-vlogs]
 
 ---
 
