@@ -1,5 +1,6 @@
-<h1><b>𝗪𝗘𝗟𝗖𝗢𝗠𝗘</b></h1>
-Building cool things with <b>Python</b> and <b>HTML</b>—one commit at a time. 🚀 Explore my latest scripts, web experiments, and coding notes right here.
+![WELCOME](https://demolab.com)
+
+Hi there! 👋 I'm a developer passionate about building clean web pages with **HTML** and automating everyday tasks with **Python**. This space is where I share my coding journey, experiment with new ideas, and build practical projects from scratch. Feel free to explore my repositories, check out my code, and connect with me!
 
 ### 🛠️ Languages & Tools
 ![HTML5](https://shields.io)
